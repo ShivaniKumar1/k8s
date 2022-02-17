@@ -1,5 +1,5 @@
 # Intro to Kubernetes
-Deploying PHP Guestbook application with Redis as a Stateless Applications.
+Deploying PHP Guestbook application with Redis as a Stateless Applications.\
 -- Following steps are only for macOS -- 
 -- Demo coming soon -- 
 
